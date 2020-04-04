@@ -1,3 +1,3 @@
-module GoTest
+module gtimer
 
 go 1.14

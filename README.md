@@ -1,3 +1,3 @@
-# githubTest
-该项目用于学习github。
-测试头像
+# gtimer
+gtimer是一个go计时器库
+该项目用于学习go。
